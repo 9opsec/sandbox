@@ -1,1 +1,22 @@
 new file
+
+git add .
+
+git add test.txt
+
+git commit -m "edit"
+
+git remote -v
+
+delete branch:
+git branch -d bugfix14
+
+git merge bugfix15
+
+git branch -a
+git branch -r
+git branch -v
+
+git push origin --delete bugfix14
+
+edit feb 3 from HP
