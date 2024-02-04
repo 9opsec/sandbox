@@ -20,3 +20,5 @@ git branch -v
 git push origin --delete bugfix14
 
 edit feb 3 from HP
+
+edit feb 4 from lenovo
