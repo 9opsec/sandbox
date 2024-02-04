@@ -93,3 +93,45 @@ is totally different
  
  
    
+--------------------------------------
+
+>>> name = "Pythonista"
+>>> moment = "morning"
+
+>>> f"Hello, {name}! Good {moment}!"
+'Hello, Pythonista! Good morning!'
+
+
+ello, {0}! Good {1}!".format("Pythonista", "morning")
+'Hello, Pythonista! Good morning!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
